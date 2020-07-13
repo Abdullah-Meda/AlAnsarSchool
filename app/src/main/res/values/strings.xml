@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Al Ansar School</string>
+    <string name="school_description">\"An innovative, pioneering and interactive education that produces capable generations reflecting authenticity and modernity.\"</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="address">Al Qaryan-3, 43114, Sharjah, UAE</string>
+    <string name="timings">Sun — Thu: 7:15 AM — 1:30 PM</string>
+    <string name="website">https://www.alansarschool.net/</string>
+    <string name="phone_number">   +971 6545 944 1</string>
+
+</resources>
